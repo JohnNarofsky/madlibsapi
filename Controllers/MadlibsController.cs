@@ -31,7 +31,7 @@ namespace madlibsapi.Controllers
                     };
 
                 }).ToList(),
-                Article = "{1} - {2} - {3} - {4} - {5} - {6} - {7}"
+                Article = "<h1>{1}</h1> - <h2>{2}</h2> - <h3>{3}</h3> - {4} - {5} - {6} -   {7}"
             };
 
             return retval;
