@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "iAovRNeAdeG/YBtzvVs7thI2s2YccjA0rWNqrku9TyyxkaoK0zaQReKsoCq/eLIzQKVulp/0uIlqSdDhZcHcCQ==",
+  "dgSpecHash": "uIoIUb374uPjFel1I5Lx+aG4Tx4Jrl5L3G9FETIsXxbso9kjpNwJn0UQ+ip7yDXW1LcA2rmuH1Z9WI6zMJReuQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\13314\\src\\core\\madlibsapi\\madlibsapi.csproj",
   "expectedPackageFiles": [
@@ -10,11 +10,7 @@
     "C:\\Users\\13314\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
     "C:\\Users\\13314\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
     "C:\\Users\\13314\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
-    "C:\\Users\\13314\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
-    "C:\\Users\\13314\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512",
-    "C:\\Users\\13314\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
-    "C:\\Users\\13314\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
-    "C:\\Users\\13314\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.13\\microsoft.netcore.app.host.win-x64.6.0.13.nupkg.sha512"
+    "C:\\Users\\13314\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
   ],
   "logs": []
 }
